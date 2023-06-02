@@ -1,0 +1,26 @@
+.ContainerGaleria{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ContainerGaleria h2{
+ color: #ff9b27;
+ padding-top: 20px;
+}
+
+
+.ContainerGaleriaFotos{
+    padding-top: 20px;
+    height: 420px;
+    overflow-x: scroll;
+    white-space:nowrap;
+    display: flex;
+    gap: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}

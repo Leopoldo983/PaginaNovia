@@ -1,0 +1,41 @@
+.ContainerCancion{
+    width: 350px;
+    height: 730px;
+    overflow-y: hidden;
+    overflow-x: none;
+    display: block;
+}
+
+.ContainerCancion h2{
+    color: #ff9b27;
+    padding-bottom: 15px;
+}
+
+.ContainerTexto{
+    width: 100%;
+}
+
+.ContainerCancion p{
+    font-size: 24px;
+}
+
+.ContainerCancion img{
+    width: 100%;
+    border-radius: 70px;
+}
+
+
+.boton {
+    background-color: #ff9b27;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .boton:hover {
+    background-color: #e6831f;
+  }

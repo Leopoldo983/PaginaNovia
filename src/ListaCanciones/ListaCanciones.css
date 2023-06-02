@@ -1,0 +1,25 @@
+.CancionesContainer{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.CancionesContainer h1{
+ color: #ff9b27;
+ padding-top: 20px;
+}
+
+
+.ContainerCanciones{
+    padding-top: 20px;
+    height: 400px;
+    white-space:break-spaces;
+    display: flex;
+    gap: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}

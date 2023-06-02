@@ -1,0 +1,11 @@
+.ContainerFoto{
+    width: 300px;
+    height: 300px;
+
+}
+
+.ContainerFoto img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}

@@ -1,0 +1,18 @@
+.ContainerCarta{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ContainerCarta h1 {
+    color: #ff9b27;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.ContainerCarta p{
+    font-size: 24px;
+    width: 80%;
+    text-align: left;
+}

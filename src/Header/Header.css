@@ -1,0 +1,29 @@
+.ContainerPresentacion{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ContainerPresentacion .titulo {
+    color: #ff9b27;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ContainerPresentacion figure{
+    width: 80%;
+    padding-bottom: 20px;
+}
+
+.ContainerPresentacion figure img {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.ContainerPresentacion .texto{
+    font-size: 24px;
+    width: 80%;
+    text-align: left;
+}
